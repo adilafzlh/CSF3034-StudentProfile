@@ -11,7 +11,7 @@ public class StudentProfile {
         System.out.println("Student ID: S87249");
         System.out.println("Programme: Bachelor of Computer Science with Maritime Informatics");
         System.out.println("Semester: Semester 1");
-        System.out.println("Favourite language: ");
+        System.out.println("Favourite language: Java");
     }
     
 }
